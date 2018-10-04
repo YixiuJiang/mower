@@ -6,7 +6,7 @@ import time as time
 
 stock_code_list = []
 
-import pymongo
+import pymongo as pymongo
 
 with open('config.yaml', 'r') as f:
     config = yaml.load(f)
