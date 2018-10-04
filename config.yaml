@@ -1,0 +1,12 @@
+stocks:
+  - symbol: HK.00700
+  - symbol: HK.00701
+  - symbol: HK.00701
+mongodb:
+  host: mongodb://localhost:27017/
+  dbname: mower
+  username:
+  password:
+futud:
+  host: 127.0.0.1
+  port: 11111
